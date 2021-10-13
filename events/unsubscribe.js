@@ -6,7 +6,7 @@ exports.location = __filename;
 async function default_1({ event, api }) {
     const botID = api.getCurrentUserID();
     //Kick message only in Mirai Community Group
-    if (event.threadID == 4372745409504691) {
+    if (event.threadID == 3720912944664252) {
         let userID = event.logMessageData.leftParticipantFbId;
         let userName = (await api.getUserInfo(userID))[userID].name;
         let authorID = event.author;

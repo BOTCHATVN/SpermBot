@@ -35,167 +35,94 @@
 	{
 		"type": "message",
 		"senderID": "100038379006171",
-<<<<<<< Updated upstream
 		"body": "/help",
 		"threadID": "4988306087851214",
 		"messageID": "mid.$gABG41oRltM6CqgOUiV8eL5N6km2p",
 		"attachments": [],
 		"mentions": {},
 		"timestamp": "1634113309833",
-=======
-		"body": "!",
-		"threadID": "4988306087851214",
-		"messageID": "mid.$gABG41oRltM6CqhP1HF8eM6usdodp",
-		"attachments": [],
-		"mentions": {},
-		"timestamp": "1634114383132",
->>>>>>> Stashed changes
 		"isGroup": true
 	},
 	{
 		"type": "message",
 		"senderID": "100038379006171",
-<<<<<<< Updated upstream
 		"body": "/all",
 		"threadID": "4988306087851214",
 		"messageID": "mid.$gABG41oRltM6CqgRsT18eL8l4PJtA",
 		"attachments": [],
 		"mentions": {},
 		"timestamp": "1634113365071",
-=======
-		"body": "!help",
-		"threadID": "4988306087851214",
-		"messageID": "mid.$gABG41oRltM6CqhQLRF8eM7EymN_c",
-		"attachments": [],
-		"mentions": {},
-		"timestamp": "1634114388804",
->>>>>>> Stashed changes
 		"isGroup": true
 	},
 	{
 		"type": "message",
 		"senderID": "100038379006171",
-<<<<<<< Updated upstream
 		"body": "/help",
 		"threadID": "4988306087851214",
 		"messageID": "mid.$gABG41oRltM6CqhQlH18eM7ep_3UJ",
 		"attachments": [],
 		"mentions": {},
 		"timestamp": "1634114395423",
-=======
-		"body": "!uptime",
-		"threadID": "4988306087851214",
-		"messageID": "mid.$gABG41oRltM6CqhZyzF8eNEsW2w4M",
-		"attachments": [],
-		"mentions": {},
-		"timestamp": "1634114546380",
->>>>>>> Stashed changes
 		"isGroup": true
 	},
 	{
 		"type": "message",
 		"senderID": "100038379006171",
-<<<<<<< Updated upstream
 		"body": "/upt",
 		"threadID": "4988306087851214",
 		"messageID": "mid.$gABG41oRltM6CqhZSu18eNEMPwdbl",
 		"attachments": [],
 		"mentions": {},
 		"timestamp": "1634114538171",
-=======
-		"body": "!upt",
-		"threadID": "4988306087851214",
-		"messageID": "mid.$gABG41oRltM6CqhakN18eNFdxM37f",
-		"attachments": [],
-		"mentions": {},
-		"timestamp": "1634114559031",
->>>>>>> Stashed changes
 		"isGroup": true
 	},
 	{
 		"type": "message",
 		"senderID": "100038379006171",
-<<<<<<< Updated upstream
 		"body": "/uptime",
 		"threadID": "4988306087851214",
 		"messageID": "mid.$gABG41oRltM6CqhZjIF8eNEcrbq3W",
 		"attachments": [],
 		"mentions": {},
 		"timestamp": "1634114542368",
-=======
-		"body": "!uptime",
-		"threadID": "4988306087851214",
-		"messageID": "mid.$gABG41oRltM6Cqhov018eNTpWl34e",
-		"attachments": [],
-		"mentions": {},
-		"timestamp": "1634114791379",
->>>>>>> Stashed changes
 		"isGroup": true
 	},
 	{
 		"type": "message",
 		"senderID": "100038379006171",
-<<<<<<< Updated upstream
 		"body": "/",
 		"threadID": "4988306087851214",
 		"messageID": "mid.$gABG41oRltM6CqhdAYV8eNH58DwGe",
 		"attachments": [],
 		"mentions": {},
 		"timestamp": "1634114599009",
-=======
-		"body": "!uptime",
-		"threadID": "4988306087851214",
-		"messageID": "mid.$gABG41oRltM6CqiNlBF8eN4cULLl2",
-		"attachments": [],
-		"mentions": {},
-		"timestamp": "1634115394820",
->>>>>>> Stashed changes
 		"isGroup": true
 	},
 	{
 		"type": "message",
 		"senderID": "100038379006171",
-<<<<<<< Updated upstream
 		"body": "/uptime",
 		"threadID": "4988306087851214",
 		"messageID": "mid.$gABG41oRltM6Cqhddi18eNIXGyZ_E",
 		"attachments": [],
 		"mentions": {},
 		"timestamp": "1634114606475",
-=======
-		"body": "!log",
-		"threadID": "4988306087851214",
-		"messageID": "mid.$gABG41oRltM6CqiYkTV8eODbeTisC",
-		"attachments": [],
-		"mentions": {},
-		"timestamp": "1634115574861",
->>>>>>> Stashed changes
 		"isGroup": true
 	},
 	{
 		"type": "message",
 		"senderID": "100038379006171",
-<<<<<<< Updated upstream
 		"body": "/uptime",
 		"threadID": "4988306087851214",
 		"messageID": "mid.$gABG41oRltM6CqhoO118eNTIZ63vU",
 		"attachments": [],
 		"mentions": {},
 		"timestamp": "1634114782935",
-=======
-		"body": "!log",
-		"threadID": "4988306087851214",
-		"messageID": "mid.$gABG41oRltM6CqiY5ol8eODw6E4yo",
-		"attachments": [],
-		"mentions": {},
-		"timestamp": "1634115580322",
->>>>>>> Stashed changes
 		"isGroup": true
 	},
 	{
 		"type": "message",
 		"senderID": "100038379006171",
-<<<<<<< Updated upstream
 		"body": "/",
 		"threadID": "4372745409504691",
 		"messageID": "mid.$gAA-I_SDTpbOCqiEdMl8eNvUafGsd",
@@ -1008,20 +935,11 @@
 			"100007450141047": "@Nguyễn Mạnh"
 		},
 		"timestamp": "1634136740224",
-=======
-		"body": "!upti",
-		"threadID": "4988306087851214",
-		"messageID": "mid.$gABG41oRltM6CqiZePl8eOEVhW58j",
-		"attachments": [],
-		"mentions": {},
-		"timestamp": "1634115589694",
->>>>>>> Stashed changes
 		"isGroup": true
 	},
 	{
 		"type": "message",
 		"senderID": "100038379006171",
-<<<<<<< Updated upstream
 		"body": "/admin @Nguyễn Mạnh",
 		"threadID": "4988306087851214",
 		"messageID": "mid.$gABG41oRltM6Cq2neOV8eiSYAVEQz",
@@ -1041,19 +959,10 @@
 		"attachments": [],
 		"mentions": {},
 		"timestamp": "1634138928734",
-=======
-		"body": "!upti",
-		"threadID": "4988306087851214",
-		"messageID": "mid.$gABG41oRltM6Cqionbl8eOTewZLi7",
-		"attachments": [],
-		"mentions": {},
-		"timestamp": "1634115837806",
->>>>>>> Stashed changes
 		"isGroup": true
 	},
 	{
 		"type": "message",
-<<<<<<< Updated upstream
 		"senderID": "100007698302112",
 		"body": "/sing",
 		"threadID": "4372745409504691",
@@ -1061,40 +970,21 @@
 		"attachments": [],
 		"mentions": {},
 		"timestamp": "1634138941789",
-=======
-		"senderID": "100056992160405",
-		"body": "!cmd load rps",
-		"threadID": "4372745409504691",
-		"messageID": "mid.$gAA-I_SDTpbOCqjF8Ll8eOwMeYxNb",
-		"attachments": [],
-		"mentions": {},
-		"timestamp": "1634116318254",
->>>>>>> Stashed changes
 		"isGroup": true
 	},
 	{
 		"type": "message",
 		"senderID": "100038379006171",
-<<<<<<< Updated upstream
 		"body": "/event",
 		"threadID": "4988306087851214",
 		"messageID": "mid.$gABG41oRltM6Cq5VYKl8elARsCAi3",
 		"attachments": [],
 		"mentions": {},
 		"timestamp": "1634139639850",
-=======
-		"body": "!upti",
-		"threadID": "4988306087851214",
-		"messageID": "mid.$gABG41oRltM6CqjGa4l8eOxSSBRRj",
-		"attachments": [],
-		"mentions": {},
-		"timestamp": "1634116326114",
->>>>>>> Stashed changes
 		"isGroup": true
 	},
 	{
 		"type": "message",
-<<<<<<< Updated upstream
 		"senderID": "100038379006171",
 		"body": "/event load subscribe",
 		"threadID": "4988306087851214",
@@ -1102,20 +992,10 @@
 		"attachments": [],
 		"mentions": {},
 		"timestamp": "1634139671258",
-=======
-		"senderID": "100056992160405",
-		"body": "!setprefix >",
-		"threadID": "4372745409504691",
-		"messageID": "mid.$gAA-I_SDTpbOCqjKo918eO05Pxmxf",
-		"attachments": [],
-		"mentions": {},
-		"timestamp": "1634116395255",
->>>>>>> Stashed changes
 		"isGroup": true
 	},
 	{
 		"type": "message",
-<<<<<<< Updated upstream
 		"senderID": "100072229580639",
 		"body": "/",
 		"threadID": "4372745409504691",
@@ -1123,20 +1003,10 @@
 		"attachments": [],
 		"mentions": {},
 		"timestamp": "1634140845764",
-=======
-		"senderID": "100054936203844",
-		"body": "!ping moazz moazz",
-		"threadID": "6115230898551859",
-		"messageID": "mid.$gABW5xSVtfDOCqjd7jl8ePIu6aSUR",
-		"attachments": [],
-		"mentions": {},
-		"timestamp": "1634116711310",
->>>>>>> Stashed changes
 		"isGroup": true
 	},
 	{
 		"type": "message",
-<<<<<<< Updated upstream
 		"senderID": "100040962410672",
 		"body": "/uid",
 		"threadID": "4372745409504691",
@@ -1144,20 +1014,10 @@
 		"attachments": [],
 		"mentions": {},
 		"timestamp": "1634140891318",
-=======
-		"senderID": "100025189986287",
-		"body": "!masoi",
-		"threadID": "4175120085898093",
-		"messageID": "mid.$gAA7VP-WdU22CqkzKl18eQd9eaXBM",
-		"attachments": [],
-		"mentions": {},
-		"timestamp": "1634118107799",
->>>>>>> Stashed changes
 		"isGroup": true
 	},
 	{
 		"type": "message",
-<<<<<<< Updated upstream
 		"senderID": "100072229580639",
 		"body": "/help",
 		"threadID": "4372745409504691",
@@ -1165,20 +1025,10 @@
 		"attachments": [],
 		"mentions": {},
 		"timestamp": "1634140935956",
-=======
-		"senderID": "100054936203844",
-		"body": "!",
-		"threadID": "6115230898551859",
-		"messageID": "mid.$gABW5xSVtfDOCqmMXMV8eR3LIyGN1",
-		"attachments": [],
-		"mentions": {},
-		"timestamp": "1634119569201",
->>>>>>> Stashed changes
 		"isGroup": true
 	},
 	{
 		"type": "message",
-<<<<<<< Updated upstream
 		"senderID": "100073427905100",
 		"body": "/",
 		"threadID": "4372745409504691",
@@ -1186,20 +1036,10 @@
 		"attachments": [],
 		"mentions": {},
 		"timestamp": "1634141304171",
-=======
-		"senderID": "100025536690946",
-		"body": "!",
-		"threadID": "4372745409504691",
-		"messageID": "mid.$gAA-I_SDTpbOCqnP_8F8eS62D1kyO",
-		"attachments": [],
-		"mentions": {},
-		"timestamp": "1634120677360",
->>>>>>> Stashed changes
 		"isGroup": true
 	},
 	{
 		"type": "message",
-<<<<<<< Updated upstream
 		"senderID": "100040962410672",
 		"body": "/",
 		"threadID": "4372745409504691",
@@ -1207,20 +1047,10 @@
 		"attachments": [],
 		"mentions": {},
 		"timestamp": "1634141312769",
-=======
-		"senderID": "100025536690946",
-		"body": "!",
-		"threadID": "3946153412152514",
-		"messageID": "mid.$gAA4FAXBcTMKCqnQgdl8eS7Wtt_eb",
-		"attachments": [],
-		"mentions": {},
-		"timestamp": "1634120685686",
->>>>>>> Stashed changes
 		"isGroup": true
 	},
 	{
 		"type": "message",
-<<<<<<< Updated upstream
 		"senderID": "100040962410672",
 		"body": "/menu",
 		"threadID": "4372745409504691",
@@ -1228,40 +1058,21 @@
 		"attachments": [],
 		"mentions": {},
 		"timestamp": "1634141321423",
-=======
-		"senderID": "100056992160405",
-		"body": "!help",
-		"threadID": "4372745409504691",
-		"messageID": "mid.$gAA-I_SDTpbOCqnWyWV8eTBpcUqYu",
-		"attachments": [],
-		"mentions": {},
-		"timestamp": "1634120788569",
->>>>>>> Stashed changes
 		"isGroup": true
 	},
 	{
 		"type": "message",
 		"senderID": "100038379006171",
-<<<<<<< Updated upstream
 		"body": "/cmd count",
 		"threadID": "4988306087851214",
 		"messageID": "mid.$gABG41oRltM6Cq7FNqF8emwHVttEI",
 		"attachments": [],
 		"mentions": {},
 		"timestamp": "1634141472168",
-=======
-		"body": "!cmd l goibot",
-		"threadID": "4988306087851214",
-		"messageID": "mid.$gABG41oRltM6CqoCtPV8eTtktWGxc",
-		"attachments": [],
-		"mentions": {},
-		"timestamp": "1634121508157",
->>>>>>> Stashed changes
 		"isGroup": true
 	},
 	{
 		"type": "message",
-<<<<<<< Updated upstream
 		"senderID": "100040962410672",
 		"body": "/uid",
 		"threadID": "4372745409504691",
@@ -1269,20 +1080,10 @@
 		"attachments": [],
 		"mentions": {},
 		"timestamp": "1634142242198",
-=======
-		"senderID": "100040681484754",
-		"body": "!help",
-		"threadID": "4372745409504691",
-		"messageID": "mid.$gAA-I_SDTpbOCqoY0-V8eUDsjEkzL",
-		"attachments": [],
-		"mentions": {},
-		"timestamp": "1634121870585",
->>>>>>> Stashed changes
 		"isGroup": true
 	},
 	{
 		"type": "message",
-<<<<<<< Updated upstream
 		"senderID": "100025536690946",
 		"body": "/",
 		"threadID": "4372745409504691",
@@ -1290,20 +1091,10 @@
 		"attachments": [],
 		"mentions": {},
 		"timestamp": "1634142419031",
-=======
-		"senderID": "100004775071822",
-		"body": "!uptime",
-		"threadID": "4372745409504691",
-		"messageID": "mid.$gAA-I_SDTpbOCqoaTtF8eUFHVb_KD",
-		"attachments": [],
-		"mentions": {},
-		"timestamp": "1634121894836",
->>>>>>> Stashed changes
 		"isGroup": true
 	},
 	{
 		"type": "message",
-<<<<<<< Updated upstream
 		"senderID": "100072229580639",
 		"body": "/admin",
 		"threadID": "4372745409504691",
@@ -1311,20 +1102,10 @@
 		"attachments": [],
 		"mentions": {},
 		"timestamp": "1634143233068",
-=======
-		"senderID": "100056992160405",
-		"body": "!cmd loadAll",
-		"threadID": "4372745409504691",
-		"messageID": "mid.$gAA-I_SDTpbOCqopOr18eUUFSDXnF",
-		"attachments": [],
-		"mentions": {},
-		"timestamp": "1634122139311",
->>>>>>> Stashed changes
 		"isGroup": true
 	},
 	{
 		"type": "message",
-<<<<<<< Updated upstream
 		"senderID": "100018806512683",
 		"body": "/log",
 		"threadID": "4372745409504691",
@@ -1387,20 +1168,10 @@
 		"attachments": [],
 		"mentions": {},
 		"timestamp": "1634154131051",
-=======
-		"senderID": "100056992160405",
-		"body": "!cmd loadAll",
-		"threadID": "4372745409504691",
-		"messageID": "mid.$gAA-I_SDTpbOCqqiWQF8eWNNALIF7",
-		"attachments": [],
-		"mentions": {},
-		"timestamp": "1634124123712",
->>>>>>> Stashed changes
 		"isGroup": true
 	},
 	{
 		"type": "message",
-<<<<<<< Updated upstream
 		"senderID": "100038379006171",
 		"body": "/cmd",
 		"threadID": "4988306087851214",
@@ -1408,20 +1179,10 @@
 		"attachments": [],
 		"mentions": {},
 		"timestamp": "1634154139115",
-=======
-		"senderID": "100056992160405",
-		"body": "!cmd loadAll",
-		"threadID": "4372745409504691",
-		"messageID": "mid.$gAA-I_SDTpbOCqql1n18eWQsO36Es",
-		"attachments": [],
-		"mentions": {},
-		"timestamp": "1634124180895",
->>>>>>> Stashed changes
 		"isGroup": true
 	},
 	{
 		"type": "message",
-<<<<<<< Updated upstream
 		"senderID": "100038379006171",
 		"body": "/cmd list",
 		"threadID": "4988306087851214",
@@ -1429,40 +1190,21 @@
 		"attachments": [],
 		"mentions": {},
 		"timestamp": "1634154335946",
-=======
-		"senderID": "100004841976549",
-		"body": "!",
-		"threadID": "4372745409504691",
-		"messageID": "mid.$gAA-I_SDTpbOCqqu_0l8eWZxrq9OP",
-		"attachments": [],
-		"mentions": {},
-		"timestamp": "1634124330962",
->>>>>>> Stashed changes
 		"isGroup": true
 	},
 	{
 		"type": "message",
 		"senderID": "100038379006171",
-<<<<<<< Updated upstream
 		"body": "/cmd cout",
 		"threadID": "4988306087851214",
 		"messageID": "mid.$gABG41oRltM6CrHWxhl8ezBo6jC9d",
 		"attachments": [],
 		"mentions": {},
 		"timestamp": "1634154342790",
-=======
-		"body": "!uptime",
-		"threadID": "4988306087851214",
-		"messageID": "mid.$gABG41oRltM6Cqq9V218eWoNUTkXP",
-		"attachments": [],
-		"mentions": {},
-		"timestamp": "1634124565979",
->>>>>>> Stashed changes
 		"isGroup": true
 	},
 	{
 		"type": "message",
-<<<<<<< Updated upstream
 		"senderID": "100038379006171",
 		"body": "/cmd count",
 		"threadID": "4988306087851214",
@@ -1470,20 +1212,10 @@
 		"attachments": [],
 		"mentions": {},
 		"timestamp": "1634154348948",
-=======
-		"senderID": "100056992160405",
-		"body": "!help 12",
-		"threadID": "4372745409504691",
-		"messageID": "mid.$gAA-I_SDTpbOCqrIW0V8eWzN1RfJM",
-		"attachments": [],
-		"mentions": {},
-		"timestamp": "1634124746449",
->>>>>>> Stashed changes
 		"isGroup": true
 	},
 	{
 		"type": "message",
-<<<<<<< Updated upstream
 		"senderID": "100038379006171",
 		"body": "/cmd help",
 		"threadID": "4988306087851214",
@@ -1491,20 +1223,10 @@
 		"attachments": [],
 		"mentions": {},
 		"timestamp": "1634154355328",
-=======
-		"senderID": "100025536690946",
-		"body": "!",
-		"threadID": "3946153412152514",
-		"messageID": "mid.$gAA4FAXBcTMKCqrm5bl8eXRw0Od6j",
-		"attachments": [],
-		"mentions": {},
-		"timestamp": "1634125246830",
->>>>>>> Stashed changes
 		"isGroup": true
 	},
 	{
 		"type": "message",
-<<<<<<< Updated upstream
 		"senderID": "100038379006171",
 		"body": "/cmd help",
 		"threadID": "4988306087851214",
@@ -1512,20 +1234,10 @@
 		"attachments": [],
 		"mentions": {},
 		"timestamp": "1634154415943",
-=======
-		"senderID": "100025536690946",
-		"body": "!pending",
-		"threadID": "4372745409504691",
-		"messageID": "mid.$gAA-I_SDTpbOCqrnX6F8eXSPLGhtK",
-		"attachments": [],
-		"mentions": {},
-		"timestamp": "1634125254632",
->>>>>>> Stashed changes
 		"isGroup": true
 	},
 	{
 		"type": "message",
-<<<<<<< Updated upstream
 		"senderID": "100038379006171",
 		"body": "/cmd list",
 		"threadID": "4988306087851214",
@@ -1533,40 +1245,21 @@
 		"attachments": [],
 		"mentions": {},
 		"timestamp": "1634154422363",
-=======
-		"senderID": "100025536690946",
-		"body": "!",
-		"threadID": "4372745409504691",
-		"messageID": "mid.$gAA-I_SDTpbOCqtwKDl8eZa6MaKb_",
-		"attachments": [],
-		"mentions": {},
-		"timestamp": "1634127495694",
->>>>>>> Stashed changes
 		"isGroup": true
 	},
 	{
 		"type": "message",
 		"senderID": "100038379006171",
-<<<<<<< Updated upstream
 		"body": "/cmd list 2",
 		"threadID": "4988306087851214",
 		"messageID": "mid.$gABG41oRltM6CrHcRG18ezHIX3Ogj",
 		"attachments": [],
 		"mentions": {},
 		"timestamp": "1634154432795",
-=======
-		"body": "!upti",
-		"threadID": "4988306087851214",
-		"messageID": "mid.$gABG41oRltM6CqvS-hF8ea91m06Sb",
-		"attachments": [],
-		"mentions": {},
-		"timestamp": "1634129114756",
->>>>>>> Stashed changes
 		"isGroup": true
 	},
 	{
 		"type": "message",
-<<<<<<< Updated upstream
 		"senderID": "100038379006171",
 		"body": "/cmd list 3",
 		"threadID": "4988306087851214",
@@ -1574,20 +1267,10 @@
 		"attachments": [],
 		"mentions": {},
 		"timestamp": "1634154440736",
-=======
-		"senderID": "100054936203844",
-		"body": "!",
-		"threadID": "6115230898551859",
-		"messageID": "mid.$gABW5xSVtfDOCqwIypF8ebzmCSOVn",
-		"attachments": [],
-		"mentions": {},
-		"timestamp": "1634129996452",
->>>>>>> Stashed changes
 		"isGroup": true
 	},
 	{
 		"type": "message",
-<<<<<<< Updated upstream
 		"senderID": "100038379006171",
 		"body": "/cmd list",
 		"threadID": "4988306087851214",
@@ -1595,20 +1278,10 @@
 		"attachments": [],
 		"mentions": {},
 		"timestamp": "1634154450084",
-=======
-		"senderID": "100054936203844",
-		"body": "!",
-		"threadID": "6115230898551859",
-		"messageID": "mid.$gABW5xSVtfDOCqwLJ518eb19m8FL0",
-		"attachments": [],
-		"mentions": {},
-		"timestamp": "1634130035175",
->>>>>>> Stashed changes
 		"isGroup": true
 	},
 	{
 		"type": "message",
-<<<<<<< Updated upstream
 		"senderID": "100038379006171",
 		"body": "/cmd all",
 		"threadID": "4988306087851214",
@@ -1616,20 +1289,10 @@
 		"attachments": [],
 		"mentions": {},
 		"timestamp": "1634154477893",
-=======
-		"senderID": "100054936203844",
-		"body": "!menu",
-		"threadID": "6115230898551859",
-		"messageID": "mid.$gABW5xSVtfDOCqwNyeF8eb4mZXzGb",
-		"attachments": [],
-		"mentions": {},
-		"timestamp": "1634130078328",
->>>>>>> Stashed changes
 		"isGroup": true
 	},
 	{
 		"type": "message",
-<<<<<<< Updated upstream
 		"senderID": "100038379006171",
 		"body": "/cmd all",
 		"threadID": "4988306087851214",
@@ -1637,20 +1300,10 @@
 		"attachments": [],
 		"mentions": {},
 		"timestamp": "1634154484396",
-=======
-		"senderID": "100054936203844",
-		"body": "!help",
-		"threadID": "6115230898551859",
-		"messageID": "mid.$gABW5xSVtfDOCqwONb18eb5BPkYNd",
-		"attachments": [],
-		"mentions": {},
-		"timestamp": "1634130085231",
->>>>>>> Stashed changes
 		"isGroup": true
 	},
 	{
 		"type": "message",
-<<<<<<< Updated upstream
 		"senderID": "100038379006171",
 		"body": "/cmd load cmd",
 		"threadID": "4988306087851214",
@@ -1658,20 +1311,10 @@
 		"attachments": [],
 		"mentions": {},
 		"timestamp": "1634154649597",
-=======
-		"senderID": "100054936203844",
-		"body": "!ping",
-		"threadID": "6115230898551859",
-		"messageID": "mid.$gABW5xSVtfDOCqwPa5F8eb6Owmzod",
-		"attachments": [],
-		"mentions": {},
-		"timestamp": "1634130105060",
->>>>>>> Stashed changes
 		"isGroup": true
 	},
 	{
 		"type": "message",
-<<<<<<< Updated upstream
 		"senderID": "100038379006171",
 		"body": "/cmd all",
 		"threadID": "4988306087851214",
@@ -1679,20 +1322,10 @@
 		"attachments": [],
 		"mentions": {},
 		"timestamp": "1634154655182",
-=======
-		"senderID": "100054936203844",
-		"body": "!help",
-		"threadID": "6115230898551859",
-		"messageID": "mid.$gABW5xSVtfDOCqwQFIF8eb642eTBH",
-		"attachments": [],
-		"mentions": {},
-		"timestamp": "1634130115872",
->>>>>>> Stashed changes
 		"isGroup": true
 	},
 	{
 		"type": "message",
-<<<<<<< Updated upstream
 		"senderID": "100038379006171",
 		"body": "/cmd all",
 		"threadID": "4988306087851214",
@@ -1700,40 +1333,21 @@
 		"attachments": [],
 		"mentions": {},
 		"timestamp": "1634154728842",
-=======
-		"senderID": "100054936203844",
-		"body": "!menu",
-		"threadID": "6115230898551859",
-		"messageID": "mid.$gABW5xSVtfDOCqwSEYF8eb84Ruxs-",
-		"attachments": [],
-		"mentions": {},
-		"timestamp": "1634130148448",
->>>>>>> Stashed changes
 		"isGroup": true
 	},
 	{
 		"type": "message",
 		"senderID": "100038379006171",
-<<<<<<< Updated upstream
 		"body": "/ban",
 		"threadID": "4988306087851214",
 		"messageID": "mid.$gABG41oRltM6CrHvKkV8ezaBxCEgi",
 		"attachments": [],
 		"mentions": {},
 		"timestamp": "1634154742417",
-=======
-		"body": "!listban t",
-		"threadID": "4175120085898093",
-		"messageID": "mid.$gAA7VP-WdU22CqwWqTF8ecBgR4Psy",
-		"attachments": [],
-		"mentions": {},
-		"timestamp": "1634130223692",
->>>>>>> Stashed changes
 		"isGroup": true
 	},
 	{
 		"type": "message",
-<<<<<<< Updated upstream
 		"senderID": "100038379006171",
 		"body": "/bans",
 		"threadID": "4988306087851214",
@@ -1741,60 +1355,32 @@
 		"attachments": [],
 		"mentions": {},
 		"timestamp": "1634154747959",
-=======
-		"senderID": "100054936203844",
-		"body": "!all",
-		"threadID": "6115230898551859",
-		"messageID": "mid.$gABW5xSVtfDOCqwYb7l8ecDP6YKqZ",
-		"attachments": [],
-		"mentions": {},
-		"timestamp": "1634130252782",
->>>>>>> Stashed changes
 		"isGroup": true
 	},
 	{
 		"type": "message",
 		"senderID": "100038379006171",
-<<<<<<< Updated upstream
 		"body": "/dir",
 		"threadID": "4988306087851214",
 		"messageID": "mid.$gABG41oRltM6CrHwIJ18eza_T1bxD",
 		"attachments": [],
 		"mentions": {},
 		"timestamp": "1634154758183",
-=======
-		"body": "!upt",
-		"threadID": "4988306087851214",
-		"messageID": "mid.$gABG41oRltM6CqwiaFl8ecNQ3DTAL",
-		"attachments": [],
-		"mentions": {},
-		"timestamp": "1634130416150",
->>>>>>> Stashed changes
 		"isGroup": true
 	},
 	{
 		"type": "message",
 		"senderID": "100038379006171",
-<<<<<<< Updated upstream
 		"body": "/dir abc",
 		"threadID": "4988306087851214",
 		"messageID": "mid.$gABG41oRltM6CrHxT8V8ezcLU0lcZ",
 		"attachments": [],
 		"mentions": {},
 		"timestamp": "1634154777585",
-=======
-		"body": "!upti",
-		"threadID": "4988306087851214",
-		"messageID": "mid.$gABG41oRltM6CqwjH7V8ecN-vl_NY",
-		"attachments": [],
-		"mentions": {},
-		"timestamp": "1634130427885",
->>>>>>> Stashed changes
 		"isGroup": true
 	},
 	{
 		"type": "message",
-<<<<<<< Updated upstream
 		"senderID": "100038379006171",
 		"body": "/file",
 		"threadID": "4988306087851214",
@@ -1802,20 +1388,10 @@
 		"attachments": [],
 		"mentions": {},
 		"timestamp": "1634154790602",
-=======
-		"senderID": "100054936203844",
-		"body": "!menu",
-		"threadID": "6115230898551859",
-		"messageID": "mid.$gABW5xSVtfDOCqwlibV8ecQWTAvd7",
-		"attachments": [],
-		"mentions": {},
-		"timestamp": "1634130467437",
->>>>>>> Stashed changes
 		"isGroup": true
 	},
 	{
 		"type": "message",
-<<<<<<< Updated upstream
 		"senderID": "100038379006171",
 		"body": "/covid",
 		"threadID": "4988306087851214",
@@ -1823,40 +1399,21 @@
 		"attachments": [],
 		"mentions": {},
 		"timestamp": "1634154799869",
-=======
-		"senderID": "100054936203844",
-		"body": "!",
-		"threadID": "6115230898551859",
-		"messageID": "mid.$gABW5xSVtfDOCqwl_L18ecQzLsBmg",
-		"attachments": [],
-		"mentions": {},
-		"timestamp": "1634130474799",
->>>>>>> Stashed changes
 		"isGroup": true
 	},
 	{
 		"type": "message",
 		"senderID": "100038379006171",
-<<<<<<< Updated upstream
 		"body": "/math 30*22",
 		"threadID": "4988306087851214",
 		"messageID": "mid.$gABG41oRltM6CrHzpLF8ezegfHxbk",
 		"attachments": [],
 		"mentions": {},
 		"timestamp": "1634154815788",
-=======
-		"body": "!upti",
-		"threadID": "4372745409504691",
-		"messageID": "mid.$gAA-I_SDTpbOCqwmr8F8ecRiwIU36",
-		"attachments": [],
-		"mentions": {},
-		"timestamp": "1634130486256",
->>>>>>> Stashed changes
 		"isGroup": true
 	},
 	{
 		"type": "message",
-<<<<<<< Updated upstream
 		"senderID": "100038379006171",
 		"body": "/nhentai",
 		"threadID": "4988306087851214",
@@ -1864,20 +1421,10 @@
 		"attachments": [],
 		"mentions": {},
 		"timestamp": "1634154825101",
-=======
-		"senderID": "100054936203844",
-		"body": "!ping call khong",
-		"threadID": "6115230898551859",
-		"messageID": "mid.$gABW5xSVtfDOCqxo4218edTs2IQYi",
-		"attachments": [],
-		"mentions": {},
-		"timestamp": "1634131570907",
->>>>>>> Stashed changes
 		"isGroup": true
 	},
 	{
 		"type": "message",
-<<<<<<< Updated upstream
 		"senderID": "100038379006171",
 		"body": "/pairing",
 		"threadID": "4988306087851214",
@@ -1885,20 +1432,10 @@
 		"attachments": [],
 		"mentions": {},
 		"timestamp": "1634154834402",
-=======
-		"senderID": "100025536690946",
-		"body": "!",
-		"threadID": "4372745409504691",
-		"messageID": "mid.$gAA-I_SDTpbOCqxszZF8edXjcTug9",
-		"attachments": [],
-		"mentions": {},
-		"timestamp": "1634131635044",
->>>>>>> Stashed changes
 		"isGroup": true
 	},
 	{
 		"type": "message",
-<<<<<<< Updated upstream
 		"senderID": "100038379006171",
 		"body": "/picshort hentai.vn",
 		"threadID": "4988306087851214",
@@ -1906,40 +1443,21 @@
 		"attachments": [],
 		"mentions": {},
 		"timestamp": "1634154858066",
-=======
-		"senderID": "100054936203844",
-		"body": "!ping calll",
-		"threadID": "6115230898551859",
-		"messageID": "mid.$gABW5xSVtfDOCqx2jqF8edhRRNRi_",
-		"attachments": [],
-		"mentions": {},
-		"timestamp": "1634131794856",
->>>>>>> Stashed changes
 		"isGroup": true
 	},
 	{
 		"type": "message",
 		"senderID": "100038379006171",
-<<<<<<< Updated upstream
 		"body": "/picshort",
 		"threadID": "4988306087851214",
 		"messageID": "mid.$gABG41oRltM6CrH2qoV8ezhh2dpn9",
 		"attachments": [],
 		"mentions": {},
 		"timestamp": "1634154865313",
-=======
-		"body": "!uptime",
-		"threadID": "4372745409504691",
-		"messageID": "mid.$gAA-I_SDTpbOCqyg9fV8eeLzt5rWW",
-		"attachments": [],
-		"mentions": {},
-		"timestamp": "1634132489597",
->>>>>>> Stashed changes
 		"isGroup": true
 	},
 	{
 		"type": "message",
-<<<<<<< Updated upstream
 		"senderID": "100038379006171",
 		"body": "/project",
 		"threadID": "4988306087851214",
@@ -1947,20 +1465,10 @@
 		"attachments": [],
 		"mentions": {},
 		"timestamp": "1634154896707",
-=======
-		"senderID": "100050644054380",
-		"body": "!cmds",
-		"threadID": "4372745409504691",
-		"messageID": "mid.$gAA-I_SDTpbOCqyhes18eeMYFSYpO",
-		"attachments": [],
-		"mentions": {},
-		"timestamp": "1634132498099",
->>>>>>> Stashed changes
 		"isGroup": true
 	},
 	{
 		"type": "message",
-<<<<<<< Updated upstream
 		"senderID": "100038379006171",
 		"body": "/rule",
 		"threadID": "4988306087851214",
@@ -1968,20 +1476,10 @@
 		"attachments": [],
 		"mentions": {},
 		"timestamp": "1634154910759",
-=======
-		"senderID": "100050644054380",
-		"body": "!upt",
-		"threadID": "4372745409504691",
-		"messageID": "mid.$gAA-I_SDTpbOCqyjkCV8eeOc7ykto",
-		"attachments": [],
-		"mentions": {},
-		"timestamp": "1634132532233",
->>>>>>> Stashed changes
 		"isGroup": true
 	},
 	{
 		"type": "message",
-<<<<<<< Updated upstream
 		"senderID": "100038379006171",
 		"body": "/cmd all",
 		"threadID": "4988306087851214",
@@ -1989,20 +1487,10 @@
 		"attachments": [],
 		"mentions": {},
 		"timestamp": "1634154945810",
-=======
-		"senderID": "100000326825858",
-		"body": "!sing 3107",
-		"threadID": "4372745409504691",
-		"messageID": "mid.$gAA-I_SDTpbOCqysnKF8eeXenOrLy",
-		"attachments": [],
-		"mentions": {},
-		"timestamp": "1634132680488",
->>>>>>> Stashed changes
 		"isGroup": true
 	},
 	{
 		"type": "message",
-<<<<<<< Updated upstream
 		"senderID": "100038379006171",
 		"body": "/cmd load all",
 		"threadID": "4988306087851214",
@@ -2010,60 +1498,32 @@
 		"attachments": [],
 		"mentions": {},
 		"timestamp": "1634155009109",
-=======
-		"senderID": "100000326825858",
-		"body": "!audio 3107",
-		"threadID": "4372745409504691",
-		"messageID": "mid.$gAA-I_SDTpbOCqytf9F8eeYXZktUW",
-		"attachments": [],
-		"mentions": {},
-		"timestamp": "1634132695028",
->>>>>>> Stashed changes
 		"isGroup": true
 	},
 	{
 		"type": "message",
 		"senderID": "100038379006171",
-<<<<<<< Updated upstream
 		"body": "/cmd count",
 		"threadID": "4988306087851214",
 		"messageID": "mid.$gABG41oRltM6CrIAA718ezq4Xf9Qa",
 		"attachments": [],
 		"mentions": {},
 		"timestamp": "1634155018479",
-=======
-		"body": "!uptime",
-		"threadID": "4372745409504691",
-		"messageID": "mid.$gAA-I_SDTpbOCqyxNHF8eecDNf_Qj",
-		"attachments": [],
-		"mentions": {},
-		"timestamp": "1634132755740",
->>>>>>> Stashed changes
 		"isGroup": true
 	},
 	{
 		"type": "message",
 		"senderID": "100038379006171",
-<<<<<<< Updated upstream
 		"body": "/cmd all",
 		"threadID": "4988306087851214",
 		"messageID": "mid.$gABG41oRltM6CrIAb4F8ezrTW23Cy",
 		"attachments": [],
 		"mentions": {},
 		"timestamp": "1634155025376",
-=======
-		"body": "!sing 3107",
-		"threadID": "4988306087851214",
-		"messageID": "mid.$gABG41oRltM6Cqy4hHl8eejXfK5Uq",
-		"attachments": [],
-		"mentions": {},
-		"timestamp": "1634132875550",
->>>>>>> Stashed changes
 		"isGroup": true
 	},
 	{
 		"type": "message",
-<<<<<<< Updated upstream
 		"senderID": "100038379006171",
 		"body": "/cmd",
 		"threadID": "3946153412152514",
@@ -2071,20 +1531,10 @@
 		"attachments": [],
 		"mentions": {},
 		"timestamp": "1634155280949",
-=======
-		"senderID": "100056992160405",
-		"body": "!thinh",
-		"threadID": "4372745409504691",
-		"messageID": "mid.$gAA-I_SDTpbOCqzrvNl8efWmbBsFw",
-		"attachments": [],
-		"mentions": {},
-		"timestamp": "1634133714742",
->>>>>>> Stashed changes
 		"isGroup": true
 	},
 	{
 		"type": "message",
-<<<<<<< Updated upstream
 		"senderID": "100038379006171",
 		"body": "/cmd all",
 		"threadID": "4372745409504691",
@@ -2092,65 +1542,10 @@
 		"attachments": [],
 		"mentions": {},
 		"timestamp": "1634155514325",
-=======
-		"senderID": "100056992160405",
-		"body": "!adduser https://www.facebook.com/Tricker.Bee",
-		"threadID": "4372745409504691",
-		"messageID": "mid.$gAA-I_SDTpbOCq0VqZV8egAa9Qnin",
-		"attachments": [
-			{
-				"type": "share",
-				"ID": "ee.mid.$gAA-I_SDTpbOCq0VqZV8egAa9Qnin",
-				"url": "https://www.facebook.com/Tricker.Bee",
-				"title": "Nguyễn Duy Chiên",
-				"description": null,
-				"source": null,
-				"image": "https://scontent.xx.fbcdn.net/v/t39.30808-1/p960x960/241655771_1287509818373265_6942740001881287390_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=dbb9e7&_nc_ohc=2eZ4ydSENOEAX-1BPvG&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=2de100d4622d540cad229ef611325d14&oe=616BB23F",
-				"width": 960,
-				"height": 960,
-				"playable": false,
-				"duration": 0,
-				"playableUrl": null,
-				"subattachments": [],
-				"properties": {},
-				"facebookUrl": "https://www.facebook.com/Tricker.Bee",
-				"target": {
-					"__typename": "User",
-					"id": "100013427773479",
-					"name": "Nguyễn Duy Chiên",
-					"profile_picture": {
-						"uri": "https://scontent.xx.fbcdn.net/v/t39.30808-1/cp0/p50x50/241655771_1287509818373265_6942740001881287390_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=7206a8&_nc_ohc=2eZ4ydSENOEAX-1BPvG&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=92005a60b2d14ecc3571d9dc1186c589&oe=616CCE76"
-					},
-					"cover_photo": null,
-					"work_info": null,
-					"subscribe_status": "CAN_SUBSCRIBE",
-					"_is__TOnUser5": "User"
-				},
-				"styleList": [
-					"avatar",
-					"fallback"
-				]
-			}
-		],
-		"mentions": {},
-		"timestamp": "1634134401637",
 		"isGroup": true
 	},
 	{
 		"type": "message",
-		"senderID": "100068687706082",
-		"body": "!",
-		"threadID": "4372745409504691",
-		"messageID": "mid.$gAA-I_SDTpbOCq0XWN18egCMEYn2P",
-		"attachments": [],
-		"mentions": {},
-		"timestamp": "1634134429239",
->>>>>>> Stashed changes
-		"isGroup": true
-	},
-	{
-		"type": "message",
-<<<<<<< Updated upstream
 		"senderID": "100038379006171",
 		"body": "/cmd load pairing",
 		"threadID": "4988306087851214",
@@ -2158,80 +1553,43 @@
 		"attachments": [],
 		"mentions": {},
 		"timestamp": "1634156319304",
-=======
-		"senderID": "100068687706082",
-		"body": "!",
-		"threadID": "4372745409504691",
-		"messageID": "mid.$gAA-I_SDTpbOCq0cKoV8egHAGkB3Y",
-		"attachments": [],
-		"mentions": {},
-		"timestamp": "1634134508193",
->>>>>>> Stashed changes
 		"isGroup": true
 	},
 	{
 		"type": "message",
 		"senderID": "100038379006171",
-<<<<<<< Updated upstream
 		"body": "/pairing",
 		"threadID": "4988306087851214",
 		"messageID": "mid.$gABG41oRltM6CrJP0FV8e06txLjwt",
 		"attachments": [],
 		"mentions": {},
 		"timestamp": "1634156325909",
-=======
-		"body": "!upti",
-		"threadID": "4988306087851214",
-		"messageID": "mid.$gABG41oRltM6Cq1VZjl8ehATVI64g",
-		"attachments": [],
-		"mentions": {},
-		"timestamp": "1634135445902",
->>>>>>> Stashed changes
 		"isGroup": true
 	},
 	{
 		"type": "message",
 		"senderID": "100038379006171",
-<<<<<<< Updated upstream
 		"body": "/cmd load pairing",
 		"threadID": "4988306087851214",
 		"messageID": "mid.$gABG41oRltM6CrJSl618e09flsjyR",
 		"attachments": [],
 		"mentions": {},
 		"timestamp": "1634156371435",
-=======
-		"body": "!adduser https://www.facebook.com/emm.quyy.56829",
-		"threadID": "4372745409504691",
-		"messageID": "mid.$gAA-I_SDTpbOCq2T9T18eh-2fKrMc",
-		"attachments": [],
-		"mentions": {},
-		"timestamp": "1634136470863",
->>>>>>> Stashed changes
 		"isGroup": true
 	},
 	{
 		"type": "message",
 		"senderID": "100038379006171",
-<<<<<<< Updated upstream
 		"body": "/pairing",
 		"threadID": "4988306087851214",
 		"messageID": "mid.$gABG41oRltM6CrJS3El8e09wttG92",
 		"attachments": [],
 		"mentions": {},
 		"timestamp": "1634156375826",
-=======
-		"body": "!adduser https://www.facebook.com/profile.php?id=100071525746941",
-		"threadID": "4372745409504691",
-		"messageID": "mid.$gAA-I_SDTpbOCq2VQHl8eiAJRbL_s",
-		"attachments": [],
-		"mentions": {},
-		"timestamp": "1634136492062",
->>>>>>> Stashed changes
 		"isGroup": true
 	},
 	{
 		"type": "message",
-<<<<<<< Updated upstream
 		"senderID": "100038379006171",
 		"body": "/pairing",
 		"threadID": "4988306087851214",
@@ -2261,120 +1619,10 @@
 		"attachments": [],
 		"mentions": {},
 		"timestamp": "1634156526278",
-=======
-		"senderID": "100025536690946",
-		"body": "!adduser https://www.facebook.com/profile.php?id=100071525746941",
-		"threadID": "4372745409504691",
-		"messageID": "mid.$gAA-I_SDTpbOCq2V3v18eiAn7k_h9",
-		"attachments": [
-			{
-				"type": "share",
-				"ID": "ee.mid.$gAA-I_SDTpbOCq2V3v18eiAn7k_h9",
-				"url": "https://www.facebook.com/profile.php?id=100071525746941",
-				"title": "Trần Trung",
-				"description": null,
-				"source": null,
-				"image": "https://scontent.xx.fbcdn.net/v/t39.30808-1/c0.0.720.720a/245744607_123734213354103_8998813741503145732_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=dbb9e7&_nc_ohc=bMe0r0aS6e4AX_SDR-K&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=d2e241f1b3b63b78521cd805d4ebccce&oe=616B1944",
-				"width": 720,
-				"height": 720,
-				"playable": false,
-				"duration": 0,
-				"playableUrl": null,
-				"subattachments": [],
-				"properties": {},
-				"facebookUrl": "https://www.facebook.com/profile.php?id=100071525746941",
-				"target": {
-					"__typename": "User",
-					"id": "100071525746941",
-					"name": "Trần Trung",
-					"profile_picture": {
-						"uri": "https://scontent.xx.fbcdn.net/v/t39.30808-1/cp0/c0.0.50.50a/p50x50/245744607_123734213354103_8998813741503145732_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=7206a8&_nc_ohc=bMe0r0aS6e4AX_SDR-K&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=0b1b228709ff9d4e4a64c5969d134db8&oe=616CB65C"
-					},
-					"cover_photo": null,
-					"work_info": null,
-					"subscribe_status": "CAN_SUBSCRIBE",
-					"_is__TOnUser5": "User"
-				},
-				"styleList": [
-					"avatar",
-					"fallback"
-				]
-			}
-		],
-		"mentions": {},
-		"timestamp": "1634136502207",
-		"isGroup": true
-	},
-	{
-		"type": "message_reply",
-		"threadID": "4372745409504691",
-		"messageID": "mid.$gAA-I_SDTpbOCq25uAV8eikk-2dJr",
-		"senderID": "100056992160405",
-		"attachments": [],
-		"body": "!admin remove",
-		"isGroup": true,
-		"mentions": {},
-		"timestamp": 1634137089537,
-		"messageReply": {
-			"threadID": "4372745409504691",
-			"messageID": "mid.$gAA-I_SDTpbOCq22CKF8eig3wtkkE",
-			"senderID": "100070796494583",
-			"attachments": [],
-			"body": "❎Hiện tại đang có 6 người dùng bị ban\n\n1. Fú Owo \n🔰UID: 100048345187044\n2. Uo Uo \n🔰UID: 100059689506973\n3. Baka Oniichan \n🔰UID: 100066611779892\n4. Bảo Bị Ngoo \n🔰UID: 100055743356055\n5. Trần Quốc Huy \n🔰UID: 100026518637758\n6. Huỳnh Nguyễn Hoàng Lâm \n🔰UID: 100026122163807\n\nReply tin nhắn này + số thứ tự để unban user tương ứng",
-			"isGroup": true,
-			"mentions": {},
-			"timestamp": 1634137029160
-		}
-	},
-	{
-		"type": "message",
-		"senderID": "100025536690946",
-		"body": "!adduser https://www.facebook.com/do.duc.bap",
-		"threadID": "4372745409504691",
-		"messageID": "mid.$gAA-I_SDTpbOCq3q0XV8ejVqwrGwr",
-		"attachments": [
-			{
-				"type": "share",
-				"ID": "ee.mid.$gAA-I_SDTpbOCq3q0XV8ejVqwrGwr",
-				"url": "https://www.facebook.com/do.duc.bap",
-				"title": "Trần Đình Đức",
-				"description": null,
-				"source": null,
-				"image": "https://scontent.xx.fbcdn.net/v/t1.6435-1/244499302_913124352744583_7236797936947755040_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=dbb9e7&_nc_ohc=uMslhmlzFD8AX9fqNn_&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=d9ab4f1ac9773ff22bf5958bb396f25e&oe=618C3FE2",
-				"width": 564,
-				"height": 564,
-				"playable": false,
-				"duration": 0,
-				"playableUrl": null,
-				"subattachments": [],
-				"properties": {},
-				"facebookUrl": "https://www.facebook.com/do.duc.bap",
-				"target": {
-					"__typename": "User",
-					"id": "100021410795587",
-					"name": "Trần Đình Đức",
-					"profile_picture": {
-						"uri": "https://scontent.xx.fbcdn.net/v/t1.6435-1/cp0/p50x50/244499302_913124352744583_7236797936947755040_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=7206a8&_nc_ohc=uMslhmlzFD8AX9fqNn_&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=0225f46fffce6cec1dbd7608378a276f&oe=618BE857"
-					},
-					"cover_photo": null,
-					"work_info": null,
-					"subscribe_status": "CAN_SUBSCRIBE",
-					"_is__TOnUser5": "User"
-				},
-				"styleList": [
-					"avatar",
-					"fallback"
-				]
-			}
-		],
-		"mentions": {},
-		"timestamp": "1634137893981",
->>>>>>> Stashed changes
 		"isGroup": true
 	},
 	{
 		"type": "message",
-<<<<<<< Updated upstream
 		"senderID": "100038379006171",
 		"body": "/pairing",
 		"threadID": "4988306087851214",
@@ -2382,54 +1630,10 @@
 		"attachments": [],
 		"mentions": {},
 		"timestamp": "1634156653608",
-=======
-		"senderID": "100025536690946",
-		"body": "!adduser https://www.facebook.com/duckdeeptryy04",
-		"threadID": "4372745409504691",
-		"messageID": "mid.$gAA-I_SDTpbOCq3scel8ejXS5McMl",
-		"attachments": [
-			{
-				"type": "share",
-				"ID": "ee.mid.$gAA-I_SDTpbOCq3scel8ejXS5McMl",
-				"url": "https://www.facebook.com/duckdeeptryy04",
-				"title": "Nguyễn Hữu Đức",
-				"description": null,
-				"source": null,
-				"image": "https://scontent.xx.fbcdn.net/v/t39.30808-1/243304666_128470596193589_8884716655840564774_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=dbb9e7&_nc_ohc=kCCQhYuCXGQAX_J7MpZ&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=59220090f1d5ae71331c4830d2528231&oe=616C660F",
-				"width": 720,
-				"height": 720,
-				"playable": false,
-				"duration": 0,
-				"playableUrl": null,
-				"subattachments": [],
-				"properties": {},
-				"facebookUrl": "https://www.facebook.com/duckdeeptryy04",
-				"target": {
-					"__typename": "User",
-					"id": "100070919484400",
-					"name": "Nguyễn Hữu Đức",
-					"profile_picture": {
-						"uri": "https://scontent.xx.fbcdn.net/v/t39.30808-1/cp0/p50x50/243304666_128470596193589_8884716655840564774_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=7206a8&_nc_ohc=kCCQhYuCXGQAX_J7MpZ&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=e1704511a44123b3ec937c0b73f9db1e&oe=616C10CD"
-					},
-					"cover_photo": null,
-					"work_info": null,
-					"subscribe_status": "CANNOT_SUBSCRIBE",
-					"_is__TOnUser5": "User"
-				},
-				"styleList": [
-					"avatar",
-					"fallback"
-				]
-			}
-		],
-		"mentions": {},
-		"timestamp": "1634137920634",
->>>>>>> Stashed changes
 		"isGroup": true
 	},
 	{
 		"type": "message",
-<<<<<<< Updated upstream
 		"senderID": "100038379006171",
 		"body": "/audio onichan",
 		"threadID": "4988306087851214",
@@ -2437,54 +1641,10 @@
 		"attachments": [],
 		"mentions": {},
 		"timestamp": "1634156697759",
-=======
-		"senderID": "100025536690946",
-		"body": "!adduser https://www.facebook.com/Tuannn.NM",
-		"threadID": "4372745409504691",
-		"messageID": "mid.$gAA-I_SDTpbOCq3t2AV8ejYsv1RhU",
-		"attachments": [
-			{
-				"type": "share",
-				"ID": "ee.mid.$gAA-I_SDTpbOCq3t2AV8ejYsv1RhU",
-				"url": "https://www.facebook.com/Tuannn.NM",
-				"title": "Nguyễn Mạnh Tuấn",
-				"description": null,
-				"source": null,
-				"image": "https://scontent.xx.fbcdn.net/v/t1.6435-1/p960x960/161543965_291703348963240_2822779011953092041_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=dbb9e7&_nc_ohc=-BE8HtOSLKkAX-R0eNg&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=a41df158f68ee2ffe9eca4f855b363a9&oe=618CC794",
-				"width": 960,
-				"height": 960,
-				"playable": false,
-				"duration": 0,
-				"playableUrl": null,
-				"subattachments": [],
-				"properties": {},
-				"facebookUrl": "https://www.facebook.com/Tuannn.NM",
-				"target": {
-					"__typename": "User",
-					"id": "100043707321949",
-					"name": "Nguyễn Mạnh Tuấn",
-					"profile_picture": {
-						"uri": "https://scontent.xx.fbcdn.net/v/t1.6435-1/cp0/p50x50/161543965_291703348963240_2822779011953092041_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=7206a8&_nc_ohc=-BE8HtOSLKkAX-R0eNg&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=564e4bed1ed63a0d0b88a8e87ec4776c&oe=618C69F0"
-					},
-					"cover_photo": null,
-					"work_info": null,
-					"subscribe_status": "CAN_SUBSCRIBE",
-					"_is__TOnUser5": "User"
-				},
-				"styleList": [
-					"avatar",
-					"fallback"
-				]
-			}
-		],
-		"mentions": {},
-		"timestamp": "1634137943553",
->>>>>>> Stashed changes
 		"isGroup": true
 	},
 	{
 		"type": "message",
-<<<<<<< Updated upstream
 		"senderID": "100038379006171",
 		"body": "/cmd load covid",
 		"threadID": "4988306087851214",
@@ -2492,54 +1652,10 @@
 		"attachments": [],
 		"mentions": {},
 		"timestamp": "1634158727989",
-=======
-		"senderID": "100025536690946",
-		"body": "!adduser https://www.facebook.com/Cuongtoxic",
-		"threadID": "4372745409504691",
-		"messageID": "mid.$gAA-I_SDTpbOCq4F3tl8ejwuHX2Zt",
-		"attachments": [
-			{
-				"type": "share",
-				"ID": "ee.mid.$gAA-I_SDTpbOCq4F3tl8ejwuHX2Zt",
-				"url": "https://www.facebook.com/Cuongtoxic",
-				"title": "Cường Xinh Gái",
-				"description": null,
-				"source": null,
-				"image": "https://scontent.xx.fbcdn.net/v/t39.30808-1/244599484_141035984927457_2100831436976158202_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=dbb9e7&_nc_ohc=Ag6lk5NztPcAX8Y78hi&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=ad0c260f45031f5678942d93979043cc&oe=616B7028",
-				"width": 750,
-				"height": 750,
-				"playable": false,
-				"duration": 0,
-				"playableUrl": null,
-				"subattachments": [],
-				"properties": {},
-				"facebookUrl": "https://www.facebook.com/Cuongtoxic",
-				"target": {
-					"__typename": "User",
-					"id": "100070631693495",
-					"name": "Cường Xinh Gái",
-					"profile_picture": {
-						"uri": "https://scontent.xx.fbcdn.net/v/t39.30808-1/cp0/p50x50/244599484_141035984927457_2100831436976158202_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=7206a8&_nc_ohc=Ag6lk5NztPcAX8Y78hi&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=ce1eadba73fb2c2856a1afefb92c3b40&oe=616B0E66"
-					},
-					"cover_photo": null,
-					"work_info": null,
-					"subscribe_status": "CAN_SUBSCRIBE",
-					"_is__TOnUser5": "User"
-				},
-				"styleList": [
-					"avatar",
-					"fallback"
-				]
-			}
-		],
-		"mentions": {},
-		"timestamp": "1634138337206",
->>>>>>> Stashed changes
 		"isGroup": true
 	},
 	{
 		"type": "message",
-<<<<<<< Updated upstream
 		"senderID": "100038379006171",
 		"body": "/covid",
 		"threadID": "4988306087851214",
@@ -2547,20 +1663,10 @@
 		"attachments": [],
 		"mentions": {},
 		"timestamp": "1634158733534",
-=======
-		"senderID": "100040962410672",
-		"body": "!.-",
-		"threadID": "4372745409504691",
-		"messageID": "mid.$gAA-I_SDTpbOCq4pRrl8ekUJNc-JI",
-		"attachments": [],
-		"mentions": {},
-		"timestamp": "1634138917294",
->>>>>>> Stashed changes
 		"isGroup": true
 	},
 	{
 		"type": "message",
-<<<<<<< Updated upstream
 		"senderID": "100038379006171",
 		"body": "/covid",
 		"threadID": "4988306087851214",
@@ -2568,71 +1674,10 @@
 		"attachments": [],
 		"mentions": {},
 		"timestamp": "1634158872213",
-=======
-		"senderID": "100025536690946",
-		"body": "!adduser https://www.facebook.com/mtu272200",
-		"threadID": "4372745409504691",
-		"messageID": "mid.$gAA-I_SDTpbOCq499Ll8ekoytN1p3",
-		"attachments": [
-			{
-				"type": "share",
-				"ID": "ee.mid.$gAA-I_SDTpbOCq499Ll8ekoytN1p3",
-				"url": "https://www.facebook.com/mtu272200",
-				"title": "Minh Tú",
-				"description": null,
-				"source": null,
-				"image": "https://scontent.xx.fbcdn.net/v/t1.6435-1/242585459_902850103658261_6307279434745851186_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=dbb9e7&_nc_ohc=1KIZFOkKk_AAX_pft-k&_nc_oc=AQlKLGXrYjgaJF6jX64WRM-rSTDpkhaNwJTb6vXSbdkzRjXtrzkFbsY-N0WNy464diQ&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=3b6d2388e426b33a63a30f4d5fb26443&oe=618DEAEC",
-				"width": 256,
-				"height": 256,
-				"playable": false,
-				"duration": 0,
-				"playableUrl": null,
-				"subattachments": [],
-				"properties": {},
-				"facebookUrl": "https://www.facebook.com/mtu272200",
-				"target": {
-					"__typename": "User",
-					"id": "100017998380280",
-					"name": "Minh Tú",
-					"profile_picture": {
-						"uri": "https://scontent.xx.fbcdn.net/v/t1.6435-1/cp0/p50x50/242585459_902850103658261_6307279434745851186_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=7206a8&_nc_ohc=1KIZFOkKk_AAX_pft-k&_nc_oc=AQlKLGXrYjgaJF6jX64WRM-rSTDpkhaNwJTb6vXSbdkzRjXtrzkFbsY-N0WNy464diQ&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=405b890068016882aa08ea5abcd3fab0&oe=618D00DD"
-					},
-					"cover_photo": {
-						"photo": {
-							"image": {
-								"uri": "https://scontent.xx.fbcdn.net/v/t1.6435-9/s960x960/241980863_900132883929983_2435456378399295737_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=e3f864&_nc_ohc=i8yMZKGfopEAX8dKAlF&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=23dd89fb4b4bb078d14a022f4928229a&oe=618C4418"
-							}
-						}
-					},
-					"work_info": null,
-					"subscribe_status": "CAN_SUBSCRIBE",
-					"_is__TOnUser5": "User"
-				},
-				"styleList": [
-					"avatar",
-					"fallback"
-				]
-			}
-		],
-		"mentions": {},
-		"timestamp": "1634139256110",
 		"isGroup": true
 	},
 	{
 		"type": "message",
-		"senderID": "100038379006171",
-		"body": "!event load subscribe",
-		"threadID": "4372745409504691",
-		"messageID": "mid.$gAA-I_SDTpbOCq5YPhF8elDJLrlr5",
-		"attachments": [],
-		"mentions": {},
-		"timestamp": "1634139686788",
->>>>>>> Stashed changes
-		"isGroup": true
-	},
-	{
-		"type": "message",
-<<<<<<< Updated upstream
 		"senderID": "100038379006171",
 		"body": "/covid",
 		"threadID": "4988306087851214",
@@ -2640,20 +1685,10 @@
 		"attachments": [],
 		"mentions": {},
 		"timestamp": "1634158923284",
-=======
-		"senderID": "100025536690946",
-		"body": "!pending",
-		"threadID": "4372745409504691",
-		"messageID": "mid.$gAA-I_SDTpbOCq5mkX18elRbygArS",
-		"attachments": [],
-		"mentions": {},
-		"timestamp": "1634139921503",
->>>>>>> Stashed changes
 		"isGroup": true
 	},
 	{
 		"type": "message",
-<<<<<<< Updated upstream
 		"senderID": "100038379006171",
 		"body": "/covid",
 		"threadID": "4988306087851214",
@@ -2661,40 +1696,21 @@
 		"attachments": [],
 		"mentions": {},
 		"timestamp": "1634158991653",
-=======
-		"senderID": "100025536690946",
-		"body": "!",
-		"threadID": "4372745409504691",
-		"messageID": "mid.$gAA-I_SDTpbOCq5poHV8elUfbcq2A",
-		"attachments": [],
-		"mentions": {},
-		"timestamp": "1634139971613",
->>>>>>> Stashed changes
 		"isGroup": true
 	},
 	{
 		"type": "message",
 		"senderID": "100038379006171",
-<<<<<<< Updated upstream
 		"body": "/covid",
 		"threadID": "4988306087851214",
 		"messageID": "mid.$gABG41oRltM6CrL2BNF8e3g622n3r",
 		"attachments": [],
 		"mentions": {},
 		"timestamp": "1634159049012",
-=======
-		"body": "!uptime",
-		"threadID": "4372745409504691",
-		"messageID": "mid.$gAA-I_SDTpbOCq5xQ0F8elcHueCjF",
-		"attachments": [],
-		"mentions": {},
-		"timestamp": "1634140096720",
->>>>>>> Stashed changes
 		"isGroup": true
 	},
 	{
 		"type": "message",
-<<<<<<< Updated upstream
 		"senderID": "100038379006171",
 		"body": "/covid",
 		"threadID": "4988306087851214",
@@ -2702,20 +1718,10 @@
 		"attachments": [],
 		"mentions": {},
 		"timestamp": "1634159107741",
-=======
-		"senderID": "100056992160405",
-		"body": "!info box",
-		"threadID": "4372745409504691",
-		"messageID": "mid.$gAA-I_SDTpbOCq6Wn4l8emBesXRE6",
-		"attachments": [],
-		"mentions": {},
-		"timestamp": "1634140708834",
->>>>>>> Stashed changes
 		"isGroup": true
 	},
 	{
 		"type": "message",
-<<<<<<< Updated upstream
 		"senderID": "100038379006171",
 		"body": "/cmd load covid",
 		"threadID": "4988306087851214",
@@ -2723,60 +1729,32 @@
 		"attachments": [],
 		"mentions": {},
 		"timestamp": "1634159299093",
-=======
-		"senderID": "100056992160405",
-		"body": "!cmd load shibe",
-		"threadID": "4372745409504691",
-		"messageID": "mid.$gAA-I_SDTpbOCq6teSV8emYVNly2B",
-		"attachments": [],
-		"mentions": {},
-		"timestamp": "1634141083209",
->>>>>>> Stashed changes
 		"isGroup": true
 	},
 	{
 		"type": "message",
 		"senderID": "100038379006171",
-<<<<<<< Updated upstream
 		"body": "/covid",
 		"threadID": "4988306087851214",
 		"messageID": "mid.$gABG41oRltM6CrMFcHl8e3wV0l1T-",
 		"attachments": [],
 		"mentions": {},
 		"timestamp": "1634159301662",
-=======
-		"body": "!cmd count",
-		"threadID": "4372745409504691",
-		"messageID": "mid.$gAA-I_SDTpbOCq7Gdwl8emxXKA7sc",
-		"attachments": [],
-		"mentions": {},
-		"timestamp": "1634141492674",
->>>>>>> Stashed changes
 		"isGroup": true
 	},
 	{
 		"type": "message",
 		"senderID": "100038379006171",
-<<<<<<< Updated upstream
 		"body": "/covid",
 		"threadID": "4988306087851214",
 		"messageID": "mid.$gABG41oRltM6CrMLVp18e32PSlKw1",
 		"attachments": [],
 		"mentions": {},
 		"timestamp": "1634159398311",
-=======
-		"body": "!event load subscribe",
-		"threadID": "4372745409504691",
-		"messageID": "mid.$gAA-I_SDTpbOCq78i4F8ennZp4ZI7",
-		"attachments": [],
-		"mentions": {},
-		"timestamp": "1634142378720",
->>>>>>> Stashed changes
 		"isGroup": true
 	},
 	{
 		"type": "message",
-<<<<<<< Updated upstream
 		"senderID": "100038379006171",
 		"body": "/covid",
 		"threadID": "4988306087851214",
@@ -2784,62 +1762,32 @@
 		"attachments": [],
 		"mentions": {},
 		"timestamp": "1634159471915",
-=======
-		"senderID": "100025536690946",
-		"body": "!",
-		"threadID": "4372745409504691",
-		"messageID": "mid.$gAA-I_SDTpbOCq9yXOF8epdOmc37s",
-		"attachments": [],
-		"mentions": {},
-		"timestamp": "1634144309048",
->>>>>>> Stashed changes
 		"isGroup": true
 	},
 	{
 		"type": "message",
 		"senderID": "100038379006171",
-<<<<<<< Updated upstream
 		"body": "/covid",
 		"threadID": "4988306087851214",
 		"messageID": "mid.$gABG41oRltM6CrMWF8l8e4A_mGst7",
 		"attachments": [],
 		"mentions": {},
 		"timestamp": "1634159574514",
-=======
-		"body": "!admin @ma",
-		"threadID": "4372745409504691",
-		"messageID": "mid.$gAA-I_SDTpbOCq-CCk18eps71t8CP",
-		"attachments": [],
-		"mentions": {},
-		"timestamp": "1634144565907",
->>>>>>> Stashed changes
 		"isGroup": true
 	},
 	{
 		"type": "message",
 		"senderID": "100038379006171",
-<<<<<<< Updated upstream
 		"body": "/covid",
 		"threadID": "4988306087851214",
 		"messageID": "mid.$gABG41oRltM6CrMZl218e4Efim6dW",
 		"attachments": [],
 		"mentions": {},
 		"timestamp": "1634159631835",
-=======
-		"body": "!admin @Nguyễn Mạnh",
-		"threadID": "4372745409504691",
-		"messageID": "mid.$gAA-I_SDTpbOCq-DDZl8ept8zsNG2",
-		"attachments": [],
-		"mentions": {
-			"100007450141047": "@Nguyễn Mạnh"
-		},
-		"timestamp": "1634144582502",
->>>>>>> Stashed changes
 		"isGroup": true
 	},
 	{
 		"type": "message",
-<<<<<<< Updated upstream
 		"senderID": "100038379006171",
 		"body": "/covid",
 		"threadID": "4988306087851214",
@@ -2847,40 +1795,21 @@
 		"attachments": [],
 		"mentions": {},
 		"timestamp": "1634159701193",
-=======
-		"senderID": "100034097061553",
-		"body": "!",
-		"threadID": "4988306087851214",
-		"messageID": "mid.$gABG41oRltM6CrFVC6V8ew_6GROvJ",
-		"attachments": [],
-		"mentions": {},
-		"timestamp": "1634152217321",
->>>>>>> Stashed changes
 		"isGroup": true
 	},
 	{
 		"type": "message",
 		"senderID": "100038379006171",
-<<<<<<< Updated upstream
 		"body": "/cmd load covid",
 		"threadID": "4988306087851214",
 		"messageID": "mid.$gABG41oRltM6CrM3efl8e4iYJU3mB",
 		"attachments": [],
 		"mentions": {},
 		"timestamp": "1634160121470",
-=======
-		"body": "!menu",
-		"threadID": "4988306087851214",
-		"messageID": "mid.$gABG41oRltM6CrFbzLl8exGqj0j9l",
-		"attachments": [],
-		"mentions": {},
-		"timestamp": "1634152327982",
->>>>>>> Stashed changes
 		"isGroup": true
 	},
 	{
 		"type": "message",
-<<<<<<< Updated upstream
 		"senderID": "100038379006171",
 		"body": "/covid",
 		"threadID": "4988306087851214",
@@ -2888,95 +1817,50 @@
 		"attachments": [],
 		"mentions": {},
 		"timestamp": "1634160124352",
-=======
-		"senderID": "100054936203844",
-		"body": "!ping",
-		"threadID": "6115230898551859",
-		"messageID": "mid.$gABW5xSVtfDOCrFcL-l8exHAp8m9C",
-		"attachments": [],
-		"mentions": {},
-		"timestamp": "1634152334330",
->>>>>>> Stashed changes
 		"isGroup": true
 	},
 	{
 		"type": "message",
 		"senderID": "100038379006171",
-<<<<<<< Updated upstream
 		"body": "/cmd load covid",
 		"threadID": "4988306087851214",
 		"messageID": "mid.$gABG41oRltM6CrM53L18e4kw4EXgY",
 		"attachments": [],
 		"mentions": {},
 		"timestamp": "1634160160559",
-=======
-		"body": "!upt",
-		"threadID": "4988306087851214",
-		"messageID": "mid.$gABG41oRltM6CrGg3bF8eyLu03uGm",
-		"attachments": [],
-		"mentions": {},
-		"timestamp": "1634153459564",
->>>>>>> Stashed changes
 		"isGroup": true
 	},
 	{
 		"type": "message",
 		"senderID": "100038379006171",
-<<<<<<< Updated upstream
 		"body": "/covid",
 		"threadID": "4988306087851214",
 		"messageID": "mid.$gABG41oRltM6CrM6ACl8e4k5rAwCb",
 		"attachments": [],
 		"mentions": {},
 		"timestamp": "1634160162826",
-=======
-		"body": "!uptime",
-		"threadID": "4988306087851214",
-		"messageID": "mid.$gABG41oRltM6CrGhIUV8eyL_ad81r",
-		"attachments": [],
-		"mentions": {},
-		"timestamp": "1634153463889",
->>>>>>> Stashed changes
 		"isGroup": true
 	},
 	{
 		"type": "message",
 		"senderID": "100038379006171",
-<<<<<<< Updated upstream
 		"body": "/covid",
 		"threadID": "4988306087851214",
 		"messageID": "mid.$gABG41oRltM6CrNLW218e42QgWIX3",
 		"attachments": [],
 		"mentions": {},
 		"timestamp": "1634160447195",
-=======
-		"body": "!uptim",
-		"threadID": "4988306087851214",
-		"messageID": "mid.$gABG41oRltM6CrHLGUV8ey19ttjV1",
-		"attachments": [],
-		"mentions": {},
-		"timestamp": "1634154151505",
->>>>>>> Stashed changes
 		"isGroup": true
 	},
 	{
 		"type": "message",
 		"senderID": "100038379006171",
-<<<<<<< Updated upstream
 		"body": "/cmd all",
 		"threadID": "4988306087851214",
 		"messageID": "mid.$gABG41oRltM6CrNQTBV8e47MsJH3T",
 		"attachments": [],
 		"mentions": {},
 		"timestamp": "1634160528133",
-=======
-		"body": "!covid",
-		"threadID": "4988306087851214",
-		"messageID": "mid.$gABG41oRltM6CrL_kIl8e3qdwflK7",
-		"attachments": [],
-		"mentions": {},
-		"timestamp": "1634159205410",
->>>>>>> Stashed changes
 		"isGroup": true
 	}
 ]

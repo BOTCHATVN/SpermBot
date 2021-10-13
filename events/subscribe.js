@@ -62,8 +62,8 @@ async function default_1({ event, api, botData }) {
     }
   }
 
-  //Welcome message only in XXX Group
-  if (event.threadID == 4372745409504691) {
+  //Welcome message only in Mirai Community Group
+  if (event.threadID == 4298048533581708) {
     let threadInfo = await api.getThreadInfo(event.threadID);
     var mentions = [],
       nameArray = [],
@@ -79,11 +79,11 @@ async function default_1({ event, api, botData }) {
     var msg =
       `Chào mừng ${nameArray.join(
         ", "
-      )} đã đến với Nhóm Hỗ Trợ/Hỏi Đáp về Bot. ${
+      )} đã đến với Nhóm Hỗ Trợ/Hỏi Đáp về Mirai. ${
         memLength.length > 1 ? "Các bạn" : "Bạn"
       } là thành viên thứ ${memLength.join(", ")} của nhóm.\n` +
-      `  + !rule: Xem luật nhóm.\n` +
-      `  + !download: Link tải xxx các phiên bản.`;
+      `  + /rule: Xem luật nhóm.\n` +
+      `  + /download: Link tải Mirai các phiên bản.`;
     return api.sendMessage({ body: msg, mentions }, event.threadID, (_e, i) =>
       setTimeout(() => api.unsendMessage(i.messageID), 300000)
     );
