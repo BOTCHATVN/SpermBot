@@ -1,9 +1,9 @@
 "use strict";
 var __importDefault =
-    (this && this.__importDefault) ||
-    function(mod) {
-        return mod && mod.__esModule ? mod : { default: mod };
-    };
+  (this && this.__importDefault) ||
+  function(mod) {
+    return mod && mod.__esModule ? mod : { default: mod };
+  };
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.location = exports.name = void 0;
 const log_1 = __importDefault(require("../declare/modules/log"));
@@ -11,41 +11,41 @@ const fs_extra_1 = require("fs-extra");
 exports.name = "joinGroup";
 exports.location = __filename;
 async function default_1({ event, api, botData }) {
-    let getThread = botData.threads.find(item => item.id == event.threadID);
-    //Function
-    async function refresh() {
-        let getData = botData.threads.find(item => item.id == event.threadID);
-        if (!getData) return;
-        let {
-            participantIDs: allMembers,
-            threadName: nameThread
-        } = await api.getThreadInfo(event.threadID);
-        getData.allMem = allMembers;
-        getData.name = nameThread;
-        return fs_extra_1.writeFileSync(
-            "./data.json",
-            JSON.stringify(botData, null, "\t")
-        );
-    }
+  let getThread = botData.threads.find(item => item.id == event.threadID);
+  //Function
+  async function refresh() {
+    let getData = botData.threads.find(item => item.id == event.threadID);
+    if (!getData) return;
+    let {
+      participantIDs: allMembers,
+      threadName: nameThread
+    } = await api.getThreadInfo(event.threadID);
+    getData.allMem = allMembers;
+    getData.name = nameThread;
+    return fs_extra_1.writeFileSync(
+      "./data.json",
+      JSON.stringify(botData, null, "\t")
+    );
+  }
 
-    getThread ? refresh() : "";
-    if (
-        event.logMessageData.addedParticipants.some(
-            i => i.userFbId == api.getCurrentUserID()
-        )
-    ) {
-        api.changeNickname("SpermBot", event.threadID, api.getCurrentUserID());
-    }
-    //Kick banned user from group
-    if (getThread) {
-        for (const i of getThread.ban.users) {
-            for (const j of event.logMessageData.addedParticipants) {
-                let id = j.userFbId;
-                let name = j.fullName;
-                if (i.id == +id) {
-                    try {
-                        api.sendMessage(
-                                `@${name} không thể tham gia nhóm này vì đã bị cấm${
+  getThread ? refresh() : "";
+  if (
+    event.logMessageData.addedParticipants.some(
+      i => i.userFbId == api.getCurrentUserID()
+    )
+  ) {
+    api.changeNickname("SpermBot", event.threadID, api.getCurrentUserID());
+  }
+  //Kick banned user from group
+  if (getThread) {
+    for (const i of getThread.ban.users) {
+      for (const j of event.logMessageData.addedParticipants) {
+        let id = j.userFbId;
+        let name = j.fullName;
+        if (i.id == +id) {
+          try {
+            api.sendMessage(
+              `@${name} không thể tham gia nhóm này vì đã bị cấm${
                 i.reason ? ` với lí do: ${i.reason}` : "."
               }`,
               event.threadID,
