@@ -1,5 +1,5 @@
 {
-	"prefix": "~",
+	"prefix": "/",
 	"admins": [
 		100069279893724,
 		100023326875133
@@ -9,7 +9,7 @@
 		"https://vagabond-insidious-ping.glitch.me",
 		"https://lt2-10a11.glitch.me/"
 	],
-	"eventLog": false,
+	"eventLog": true,
 	"todolist": [],
 	"disabled": [],
 	"users": [
@@ -7820,6 +7820,48 @@
 		},
 		{
 			"id": 100072891670679,
+			"ban": {
+				"use": false,
+				"cmds": []
+			}
+		},
+		{
+			"id": "100007450141047",
+			"ban": {
+				"use": false,
+				"cmds": []
+			}
+		},
+		{
+			"id": "100010567789005",
+			"ban": {
+				"use": false,
+				"cmds": []
+			}
+		},
+		{
+			"id": "100032665820191",
+			"ban": {
+				"use": false,
+				"cmds": []
+			}
+		},
+		{
+			"id": "100038257713350",
+			"ban": {
+				"use": false,
+				"cmds": []
+			}
+		},
+		{
+			"id": "100062862885749",
+			"ban": {
+				"use": false,
+				"cmds": []
+			}
+		},
+		{
+			"id": "100073429200284",
 			"ban": {
 				"use": false,
 				"cmds": []
@@ -19781,6 +19823,120 @@
 					"name": "Người dùng Facebook",
 					"thumbSrc": "https://scontent-iad3-2.xx.fbcdn.net/v/t1.30497-1/cp0/c18.0.60.60a/p60x60/84628273_176159830277856_972693363922829312_n.jpg?_nc_cat=1&ccb=1-5&_nc_sid=12b3be&_nc_ohc=CxmGyQqlfmQAX-5kImm&tn=wAZL5IZlXu2eUxWV&_nc_ht=scontent-iad3-2.xx&oh=af7eef057e172f92ce168485efba5b8c&oe=616B029A",
 					"profileUrl": "https://scontent-iad3-2.xx.fbcdn.net/v/t1.30497-1/cp0/c18.0.60.60a/p60x60/84628273_176159830277856_972693363922829312_n.jpg?_nc_cat=1&ccb=1-5&_nc_sid=12b3be&_nc_ohc=CxmGyQqlfmQAX-5kImm&tn=wAZL5IZlXu2eUxWV&_nc_ht=scontent-iad3-2.xx&oh=af7eef057e172f92ce168485efba5b8c&oe=616B029A",
+					"type": "UnavailableMessagingActor",
+					"isBirthday": false
+				}
+			]
+		},
+		{
+			"id": 4988306087851214,
+			"name": "BOX TEST BOT🪁",
+			"warns": [],
+			"ban": {
+				"use": false,
+				"cmds": [],
+				"users": []
+			},
+			"nsfw": true,
+			"selfListen": false,
+			"admins": [],
+			"shortcut": [],
+			"allMem": [
+				"100010567789005",
+				"100032665820191",
+				"100034097061553",
+				"100038257713350",
+				"100038379006171",
+				"100062862885749",
+				"100073429200284"
+			],
+			"rule": [],
+			"data": [
+				{
+					"id": "100007450141047",
+					"name": "Nguyễn Mạnh ",
+					"firstName": "Mạnh",
+					"vanity": "manhklove",
+					"thumbSrc": "https://scontent.fhan2-3.fna.fbcdn.net/v/t1.18169-1/cp0/p60x60/21232049_1937045453220441_7043116798181106410_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=7206a8&_nc_ohc=8_kOtoTMiI0AX8f4CoV&_nc_ht=scontent.fhan2-3.fna&oh=ba9355cf42e4b688c2788d73a1919367&oe=618C4BF5",
+					"profileUrl": "https://scontent.fhan2-3.fna.fbcdn.net/v/t1.18169-1/cp0/p60x60/21232049_1937045453220441_7043116798181106410_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=7206a8&_nc_ohc=8_kOtoTMiI0AX8f4CoV&_nc_ht=scontent.fhan2-3.fna&oh=ba9355cf42e4b688c2788d73a1919367&oe=618C4BF5",
+					"gender": "MALE",
+					"type": "User",
+					"isFriend": false,
+					"isBirthday": false
+				},
+				{
+					"id": "100010567789005",
+					"name": "Mạnh Nguyễn",
+					"firstName": "Mạnh",
+					"vanity": "manhklove1",
+					"thumbSrc": "https://scontent.fhan2-4.fna.fbcdn.net/v/t1.6435-1/cp0/p60x60/151292619_1347090682319845_7090123182613154642_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=7206a8&_nc_ohc=wnzzWDlBXIQAX_EJkWr&tn=yCTC_MlK8XFT2o-C&_nc_ht=scontent.fhan2-4.fna&oh=4fea2c4e52f8dbdfb8d93ac9899214a8&oe=618BE59D",
+					"profileUrl": "https://scontent.fhan2-4.fna.fbcdn.net/v/t1.6435-1/cp0/p60x60/151292619_1347090682319845_7090123182613154642_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=7206a8&_nc_ohc=wnzzWDlBXIQAX_EJkWr&tn=yCTC_MlK8XFT2o-C&_nc_ht=scontent.fhan2-4.fna&oh=4fea2c4e52f8dbdfb8d93ac9899214a8&oe=618BE59D",
+					"gender": "MALE",
+					"type": "User",
+					"isFriend": true,
+					"isBirthday": false
+				},
+				{
+					"id": "100032665820191",
+					"name": "Nguyễn Mạnh",
+					"firstName": "Mạnh",
+					"vanity": "",
+					"thumbSrc": "https://scontent.fhan2-1.fna.fbcdn.net/v/t1.6435-1/cp0/c0.0.60.60a/p60x60/244495986_544375909994598_1296065289878246398_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=7206a8&_nc_ohc=fP2KujnZsqQAX84OIsg&_nc_ht=scontent.fhan2-1.fna&oh=3b06a6445c2a13ec90477f406a839d67&oe=618DE51B",
+					"profileUrl": "https://scontent.fhan2-1.fna.fbcdn.net/v/t1.6435-1/cp0/c0.0.60.60a/p60x60/244495986_544375909994598_1296065289878246398_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=7206a8&_nc_ohc=fP2KujnZsqQAX84OIsg&_nc_ht=scontent.fhan2-1.fna&oh=3b06a6445c2a13ec90477f406a839d67&oe=618DE51B",
+					"gender": "MALE",
+					"type": "User",
+					"isFriend": false,
+					"isBirthday": false
+				},
+				{
+					"id": "100034097061553",
+					"name": "Nguyễn Mạnh",
+					"firstName": "Mạnh",
+					"vanity": "ftios4",
+					"thumbSrc": "https://scontent.fhan2-3.fna.fbcdn.net/v/t1.6435-1/cp0/p60x60/244546202_581055296374367_7264743530936645956_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=7206a8&_nc_ohc=zpATIBIi9WcAX9Y8uKi&_nc_oc=AQk2JMbIdWJguTqnsvul-sMXcDae2VPkoEnAyCzWKuqXAUCW4AwMF4wNgiGHfGG1R1s&tn=yCTC_MlK8XFT2o-C&_nc_ht=scontent.fhan2-3.fna&oh=fc1e99d19c0c18abfdebf9af9df8c308&oe=618D3C3E",
+					"profileUrl": "https://scontent.fhan2-3.fna.fbcdn.net/v/t1.6435-1/cp0/p60x60/244546202_581055296374367_7264743530936645956_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=7206a8&_nc_ohc=zpATIBIi9WcAX9Y8uKi&_nc_oc=AQk2JMbIdWJguTqnsvul-sMXcDae2VPkoEnAyCzWKuqXAUCW4AwMF4wNgiGHfGG1R1s&tn=yCTC_MlK8XFT2o-C&_nc_ht=scontent.fhan2-3.fna&oh=fc1e99d19c0c18abfdebf9af9df8c308&oe=618D3C3E",
+					"gender": "MALE",
+					"type": "User",
+					"isFriend": false,
+					"isBirthday": false
+				},
+				{
+					"id": "100038257713350",
+					"name": "Nguyễn Mạnh",
+					"firstName": "Nguyễn",
+					"vanity": "ftios3",
+					"thumbSrc": "https://scontent.fhan2-2.fna.fbcdn.net/v/t1.6435-1/cp0/p60x60/241380043_547272786557974_2728950935027996874_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=7206a8&_nc_ohc=HjLsjy8-Tf8AX8mgxcD&_nc_ht=scontent.fhan2-2.fna&oh=3fd320b42cc6eac1420f455c38ffe0b7&oe=618A86DE",
+					"profileUrl": "https://scontent.fhan2-2.fna.fbcdn.net/v/t1.6435-1/cp0/p60x60/241380043_547272786557974_2728950935027996874_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=7206a8&_nc_ohc=HjLsjy8-Tf8AX8mgxcD&_nc_ht=scontent.fhan2-2.fna&oh=3fd320b42cc6eac1420f455c38ffe0b7&oe=618A86DE",
+					"gender": "MALE",
+					"type": "User",
+					"isFriend": true,
+					"isBirthday": false
+				},
+				{
+					"id": "100038379006171",
+					"name": "Mạnh’G",
+					"firstName": "Mạnh’G",
+					"vanity": "manhict",
+					"thumbSrc": "https://scontent.fhan2-2.fna.fbcdn.net/v/t1.6435-1/cp0/p60x60/241349450_530120864943876_8927158800802734847_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=7206a8&_nc_ohc=-R-VnPNa-iYAX8-8qp0&tn=yCTC_MlK8XFT2o-C&_nc_ht=scontent.fhan2-2.fna&oh=2d4595ccd7bb7ba50ae0987a89396746&oe=618E1543",
+					"profileUrl": "https://scontent.fhan2-2.fna.fbcdn.net/v/t1.6435-1/cp0/p60x60/241349450_530120864943876_8927158800802734847_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=7206a8&_nc_ohc=-R-VnPNa-iYAX8-8qp0&tn=yCTC_MlK8XFT2o-C&_nc_ht=scontent.fhan2-2.fna&oh=2d4595ccd7bb7ba50ae0987a89396746&oe=618E1543",
+					"gender": "MALE",
+					"type": "User",
+					"isFriend": true,
+					"isBirthday": false
+				},
+				{
+					"id": "100062862885749",
+					"name": "Người dùng Facebook",
+					"thumbSrc": "https://scontent.fhan2-2.fna.fbcdn.net/v/t1.30497-1/cp0/c18.0.60.60a/p60x60/84628273_176159830277856_972693363922829312_n.jpg?_nc_cat=1&ccb=1-5&_nc_sid=12b3be&_nc_ohc=mdLbPvjffG8AX-DMQZO&_nc_ht=scontent.fhan2-2.fna&oh=41dac3cabebb2e2af03a310d9c1f432f&oe=618AA69A",
+					"profileUrl": "https://scontent.fhan2-2.fna.fbcdn.net/v/t1.30497-1/cp0/c18.0.60.60a/p60x60/84628273_176159830277856_972693363922829312_n.jpg?_nc_cat=1&ccb=1-5&_nc_sid=12b3be&_nc_ohc=mdLbPvjffG8AX-DMQZO&_nc_ht=scontent.fhan2-2.fna&oh=41dac3cabebb2e2af03a310d9c1f432f&oe=618AA69A",
+					"type": "UnavailableMessagingActor",
+					"isBirthday": false
+				},
+				{
+					"id": "100073429200284",
+					"name": "Người dùng Facebook",
+					"thumbSrc": "https://scontent.fhan2-2.fna.fbcdn.net/v/t1.30497-1/cp0/c18.0.60.60a/p60x60/84628273_176159830277856_972693363922829312_n.jpg?_nc_cat=1&ccb=1-5&_nc_sid=12b3be&_nc_ohc=mdLbPvjffG8AX-DMQZO&_nc_ht=scontent.fhan2-2.fna&oh=41dac3cabebb2e2af03a310d9c1f432f&oe=618AA69A",
+					"profileUrl": "https://scontent.fhan2-2.fna.fbcdn.net/v/t1.30497-1/cp0/c18.0.60.60a/p60x60/84628273_176159830277856_972693363922829312_n.jpg?_nc_cat=1&ccb=1-5&_nc_sid=12b3be&_nc_ohc=mdLbPvjffG8AX-DMQZO&_nc_ht=scontent.fhan2-2.fna&oh=41dac3cabebb2e2af03a310d9c1f432f&oe=618AA69A",
 					"type": "UnavailableMessagingActor",
 					"isBirthday": false
 				}
