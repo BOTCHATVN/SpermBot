@@ -1,4 +1,5 @@
 [
+<<<<<<< Updated upstream
 	{
 		"key": "sb",
 		"value": "s05YYSoTz5IJ_Il4Xgdi8xdk",
@@ -143,4 +144,87 @@
 		"creation": "2021-10-13T21:27:22.865Z",
 		"lastAccessed": "2021-10-13T21:27:25.709Z"
 	}
+=======
+    {
+        "key": "dbln",
+        "value": "%7B%22100007450141047%22%3A%22v5veDA6X%22%7D",
+        "domain": "facebook.com",
+        "path": "/login/device-based/",
+        "hostOnly": false,
+        "creation": "2021-10-13T21:26:30.482Z",
+        "lastAccessed": "2021-10-13T21:26:30.482Z"
+    },
+    {
+        "key": "sb",
+        "value": "s05YYSoTz5IJ_Il4Xgdi8xdk",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2021-10-13T21:26:30.482Z",
+        "lastAccessed": "2021-10-13T21:26:30.482Z"
+    },
+    {
+        "key": "wd",
+        "value": "1536x769",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2021-10-13T21:26:30.482Z",
+        "lastAccessed": "2021-10-13T21:26:30.482Z"
+    },
+    {
+        "key": "locale",
+        "value": "vi_VN",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2021-10-13T21:26:30.482Z",
+        "lastAccessed": "2021-10-13T21:26:30.482Z"
+    },
+    {
+        "key": "c_user",
+        "value": "100007450141047",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2021-10-13T21:26:30.482Z",
+        "lastAccessed": "2021-10-13T21:26:30.482Z"
+    },
+    {
+        "key": "xs",
+        "value": "16%3AcEp1xLgVBRYjGw%3A2%3A1634160379%3A-1%3A6351",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2021-10-13T21:26:30.482Z",
+        "lastAccessed": "2021-10-13T21:26:30.482Z"
+    },
+    {
+        "key": "fr",
+        "value": "0AKXk52X3tI8zKdAM.AWUR5iS4wldLLg1xZZ06QVu9QLU.BhXhkl.GK.AAA.0.0.BhZ076.AWVker5sJfA",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2021-10-13T21:26:30.482Z",
+        "lastAccessed": "2021-10-13T21:26:30.482Z"
+    },
+    {
+        "key": "datr",
+        "value": "_U5nYf9JGta1HIVbdJkHhq7O",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2021-10-13T21:26:30.482Z",
+        "lastAccessed": "2021-10-13T21:26:30.482Z"
+    },
+    {
+        "key": "spin",
+        "value": "r.1004547514_b.trunk_t.1634160388_s.1_v.2_",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2021-10-13T21:26:30.482Z",
+        "lastAccessed": "2021-10-13T21:26:30.482Z"
+    }
+>>>>>>> Stashed changes
 ]
