@@ -57,7 +57,7 @@ async function default_1({
             attachment: img
         };
 
-        for (let i of allMem) {
+        /*for (let i of allMem) {
             let gov = await getInfo(i);
             var die = [];
             if (
@@ -72,7 +72,7 @@ async function default_1({
                     event.threadID,
                     event.messageID
                 );
-        }
+        }*/
 
         api.sendMessage(msg, event.threadID, event.messageID);
     } else if (event.args[0].startsWith("@")) {
@@ -102,7 +102,7 @@ async function default_1({
             mentions: mentio,
             attachment: img
         };
-        for (let i of allMem) {
+        /*for (let i of allMem) {
             let gov = await getInfo(i);
             var die = [];
             if (
@@ -117,7 +117,7 @@ async function default_1({
                     event.threadID,
                     event.messageID
                 );
-        }
+        }*/
 
         api.sendMessage(msg, event.threadID, event.messageID);
     } else return api.sendMessage("Sai format.", event.threadID, event.messageID);
