@@ -6,7 +6,7 @@ var __importDefault =
     };
 Object.defineProperty(exports, "__esModule", { value: true });
 const fs_extra_1 = require("fs-extra");
-const fca_unofficial_1 = __importDefault(require("facebook-chat-api-v2"));
+const fca_unofficial_1 = __importDefault(require("fca-unofficial"));
 const totp_generator_1 = __importDefault(require("totp-generator"));
 const option = {
     logLevel: "silent",
