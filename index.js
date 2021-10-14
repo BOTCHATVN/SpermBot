@@ -58,7 +58,7 @@ Object.defineProperty(exports, "__esModule", { value: true });
 const log_1 = __importStar(require("./declare/modules/log"));
 //Import required modules
 const express_1 = __importDefault(require("express"));
-const fca_unofficial_1 = __importDefault(require("fca-unofficial"));
+const fca_unofficial_1 = __importDefault(require("facebook-chat-api-v2"));
 const npmlog_1 = __importDefault(require("npmlog"));
 //const cli_cursor_1 = __importDefault(require("cli-cursor"));
 const fs_extra_1 = require("fs-extra");
